@@ -1,17 +1,13 @@
+```html
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=220&section=header&text=ダン・ティ・ホン・ニュン&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Webアプリケーション開発%20%7C%20新しい技術への挑戦&descAlignY=58&descSize=16" alt="ダン・ティ・ホン・ニュン" />
+  🌱 Web Developer | Lifelong Learner
+  <br/><br/>
+  日本の文化と言語が好きで、約2年間日本語を学習しています 🇯🇵
+  <br/>
+  JLPT N3 合格 🎌
+  <br/><br/>
+  💻 新しい技術への挑戦を楽しみながら、成長し続けるエンジニアを目指しています。
+  <br/>
+  🚀 目標：日本のIT業界で活躍するエンジニアになること
 </p>
-
-<p align="center">
-  Webアプリケーション開発に興味があり、新しい技術を学びながらスキルを磨いています。
-</p>
-
-## 🛠️ 技術スタック
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,kotlin,ts,spring,react,mysql,postgres,firebase,git,github,docker,vscode,figma" alt="技術スタック" />
-</p>
-
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=nhungdth136&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+```
